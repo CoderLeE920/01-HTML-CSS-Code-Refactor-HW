@@ -19,5 +19,5 @@ As a marketing agency we want our code to be accessible to a wide array of custo
 
 [website]"https://coderlee920.github.io/01-HTML-CSS-Code-Refactor-HW/"
 
-![Alt text](/../<desktop>/HW-HTML-CSS-01/01-HTML-CSS-Code-Refactor-HW/assets/images/Screenshot.image.png?raw=true "Optional Title")
+[![Screenshot-img.png](https://i.postimg.cc/RCKf1SWk/Screenshot-img.png)](https://postimg.cc/jCqLtrQc)
 # Made by Horiseon
