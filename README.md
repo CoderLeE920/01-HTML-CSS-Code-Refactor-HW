@@ -17,7 +17,7 @@ As a marketing agency we want our code to be accessible to a wide array of custo
 
 ## Lauch Application
 
-[website]"https://github.com/CoderLeE920/01-HTML-CSS-Code-Refactor-HW.git"
+[website]"https://coderlee920.github.io/01-HTML-CSS-Code-Refactor-HW/"
 
 ![Github Logo](C:assets\images\Screenshot.img.png)[screenshot]
 
